@@ -1,6 +1,4 @@
 def is_palindrome_recursive(word, low_index, high_index):
-    # print(word, low_index, high_index)
-
     if len(word) == 0:
         return False
 
@@ -25,7 +23,7 @@ def is_palindrome_recursive(word, low_index, high_index):
 # i     j
 #   i j
 #   j i
-# Aqui retorna True, pois i é maior que j
+# Aqui retorna True, pois i é maior que j e i = S e j = S
 
 # A G U A
 # 0 1 2 3
