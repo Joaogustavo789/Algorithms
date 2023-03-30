@@ -1,3 +1,3 @@
 def find_duplicate(nums):
-    """Faça o código aqui."""
-    raise NotImplementedError
+    if len(nums) == 0:
+        return False
