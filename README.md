@@ -1,7 +1,8 @@
 
 # Algorithms
 
-Algorithms é um projeto sobre Algoritmos e suas complexidades, desenvolvido com a linguagem de programação `Python`.
+Algorithms é um projeto que aborda sobre algoritmos e suas complexidades, com o objetivo de resolver situações que não possui uma otimização de tempo. 
+Foi desenvolvido utilizando a linguagem de programação `Python`.
 
 ## Rodando localmente
 
