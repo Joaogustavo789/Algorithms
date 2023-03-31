@@ -22,17 +22,27 @@ Algorithms é um projeto sobre Algoritmos e suas complexidades, desenvolvido com
   cd Algorithms
 ```
 
-- Ambiente Virtual
+- Crie o Ambiente Virtual
 
 ```bash
-  py
+  python3 -m venv .venv
+```
+    
+- Ative o Ambiente Virtual
+    
+```bash
+  source .venv/bin/activate
 ```
 
-- Instale as dependências
+- Instale as dependências dentro do Ambiente Virtual
 
 ```bash
-  pip
+  python3 -m pip install -r dev-requirements.txt
 ```
+##### OBSERVAÇÃO
+
+- Para sair do Ambiente Virtual, basta rodar o comando `deactivate`.
+    
 </details>
 
 ## Rodando os testes
@@ -41,11 +51,12 @@ Algorithms é um projeto sobre Algoritmos e suas complexidades, desenvolvido com
   <summary>Clique aqui para expandir</summary>
   <br>
 
-- Para rodar os testes, rode o seguinte comando dentro do ambiente virtual
+- Para rodar os testes, rode o seguinte comando dentro do Ambiente Virtual
 
 ```bash
   python3 -m pytest
 ```
+
 </details>
 
 ## Stack utilizada
