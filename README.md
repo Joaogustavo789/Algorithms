@@ -41,7 +41,7 @@ Algorithms é um projeto sobre Algoritmos e suas complexidades, desenvolvido com
   <summary>Clique aqui para expandir</summary>
   <br>
 
-- Para rodar os testes, rode o seguinte comando
+- Para rodar os testes, rode o seguinte comando dentro do ambiente virtual
 
 ```bash
   python3 -m pytest
