@@ -90,7 +90,10 @@ Nesse projeto, aprendi o que são algoritmos, suas complexidades, que possuem al
 `O(n!)`, definir `melhor caso`, `caso médio`, `pior caso` de uma Ordem de Complexidade. Aprendi a encontrar a quantidade de estudantes que estavam 
 estudando em um horário específico utilizando a `busca linear`, na qual irá percorrer item por item, aprendi a identificar palíndromos utilizando dois 
 algoritmos, o primeiro foi usando a `recursividade`, na qual tem um caso baso, um caso de decremento, e o segundo foi usando a `iteratividade`, na qual 
-possui um laço de repetição, aprendi a identificar anagramas utilizando o `merge sort`, algoritmo de ordenação que possui como estrategia dividir e conquistar
+possui um laço de repetição, aprendi a identificar anagramas utilizando o `merge sort`, algoritmo de ordenação que possui como estrategia dividir e 
+conquistar, aprendi a encontrar numéros repetidos em uma lista também utilizando a busca linear, porém foi necessário ordenar essa lista para depois 
+percorrer item por item e por fim, implementei um teste de uma função que encripta uma mensagem, na qual eu testo se ao chama-la com os devidos 
+parametros ela retorna a resposta esperada.
 
 ## Documentação
 
