@@ -82,6 +82,7 @@ Aqui irei explicar o que eu pude aprender sobre algoritmos.
 ## Documentação
 
 - [Python](https://www.python.org/)
+- [Pytest](https://docs.pytest.org/)
 
 
 ## Feedback
