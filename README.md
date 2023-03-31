@@ -3,7 +3,6 @@
 
 Algorithms é um projeto sobre Algoritmos e suas complexidades, desenvolvido com a linguagem de programação `Python`.
 
-
 ## Rodando localmente
 
 <details>
@@ -39,6 +38,7 @@ Algorithms é um projeto sobre Algoritmos e suas complexidades, desenvolvido com
 ```bash
   python3 -m pip install -r dev-requirements.txt
 ```
+
 ##### OBSERVAÇÃO
 
 - Para sair do Ambiente Virtual, basta rodar o comando `deactivate`.
@@ -76,7 +76,6 @@ Algorithms é um projeto sobre Algoritmos e suas complexidades, desenvolvido com
   </tbody>
 </table>
 
-
 ## Funcionalidades
 
 - Busca Linear (Algoritmo de busca)
@@ -87,16 +86,17 @@ Algorithms é um projeto sobre Algoritmos e suas complexidades, desenvolvido com
 
 ## Aprendizados
 
-Nesse projeto, eu pude aprender mais sobre algoritmos e suas complexidades.
-
+Nesse projeto, aprendi o que são algoritmos, suas complexidades, que possuem algumas noções como: `O(1)`, `O(n)`, `O(log n)`, `O(n^2)`, `O(n^3)` e 
+`O(n!)`, definir `melhor caso`, `caso médio`, `pior caso` de uma Ordem de Complexidade. Aprendi a encontrar a quantidade de estudantes que estavam 
+estudando em um horário específico utilizando a `busca linear`, na qual irá percorrer item por item, aprendi a identificar palíndromos utilizando dois 
+algoritmos, o primeiro foi usando a `recursividade`, na qual tem um caso baso, um caso de decremento, e o segundo foi usando a `iteratividade`, na qual 
+possui um laço de repetição, aprendi a identificar anagramas utilizando o `merge sort`, algoritmo de ordenação que possui como estrategia dividir e conquistar
 
 ## Documentação
 
 - [Python](https://www.python.org/)
 - [Pytest](https://docs.pytest.org/)
 
-
 ## Feedback
 
 Se você tiver algum feedback, por favor nos deixe saber por meio de jgustavomendonca@gmail.com
-
