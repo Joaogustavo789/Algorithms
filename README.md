@@ -79,15 +79,15 @@ Algorithms é um projeto sobre Algoritmos e suas complexidades, desenvolvido com
 
 ## Funcionalidades
 
-- Palindromos
-- Anagramas
-- Teste de mensagem encriptada
-- Quantidade de estudantes estudando em um horário específico
-
+- Busca Linear (Algoritmo de busca)
+- Merge Sort (Algoritmo de ordenação)
+- Iteratividade
+- Recursividade
+- Teste
 
 ## Aprendizados
 
-Aqui irei explicar o que eu pude aprender sobre algoritmos.
+Nesse projeto, eu pude aprender mais sobre algoritmos e suas complexidades.
 
 
 ## Documentação
