@@ -87,14 +87,16 @@ Foi desenvolvido utilizando a linguagem de programação `Python`.
 
 ## Aprendizados
 
-Nesse projeto, aprendi o que são algoritmos, suas complexidades, que possuem algumas noções como: `O(1)`, `O(n)`, `O(log n)`, `O(n^2)`, `O(n^3)` e 
-`O(n!)`, definir `melhor caso`, `caso médio`, `pior caso` de uma Ordem de Complexidade. Aprendi a encontrar a quantidade de estudantes que estavam 
-estudando em um horário específico utilizando a `busca linear`, na qual irá percorrer item por item, aprendi a identificar palíndromos utilizando dois 
-algoritmos, o primeiro foi usando a `recursividade`, na qual tem um caso baso, um caso de decremento, e o segundo foi usando a `iteratividade`, na qual 
-possui um laço de repetição, aprendi a identificar anagramas utilizando o `merge sort`, algoritmo de ordenação que possui como estrategia dividir e 
-conquistar, aprendi a encontrar numéros repetidos em uma lista também utilizando a busca linear, porém foi necessário ordenar essa lista para depois 
-percorrer item por item e por fim, implementei um teste de uma função que encripta uma mensagem, na qual eu testo se ao chama-la com os devidos 
-parametros ela retorna a resposta esperada.
+Nesse projeto, eu aprendi sobre algoritmos, incluindo o entendimento de suas complexidades e notações, tais como `O(1)`, `O(n)`, `O(log n)`, `O(n^2)`, 
+`O(n^3)` e `O(n!)`. Além disso, eu fui capaz de definir e entender melhor os conceitos de `melhor caso`, `caso médio` e `pior caso` em relação à ordem de 
+complexidade.
+
+Aprendi a encontrar a quantidade de estudantes que estavam estudando em um horário específico utilizando a `busca linear`, na qual irá percorrer item por 
+item, aprendi a identificar palíndromos utilizando dois algoritmos, o primeiro foi usando a `recursividade`, na qual tem um caso baso, um caso de 
+decremento, e o segundo foi usando a `iteratividade`, na qual possui um laço de repetição, aprendi a identificar anagramas utilizando o `merge sort`, 
+algoritmo de ordenação que possui como estrategia dividir e conquistar, aprendi a encontrar numéros repetidos em uma lista também utilizando a busca 
+linear, porém foi necessário ordenar essa lista para depois percorrer item por item e por fim, implementei um teste em uma função de criptografia de 
+mensagem para garantir que ela retorne a resposta esperada quando chamada com os devidos parâmetros.
 
 ## Documentação
 
