@@ -14,16 +14,3 @@ def find_duplicate(nums):
             return nums[repeat]
 
     return False
-
-    # print(nums)
-    # for repeat in nums:
-    #     if not isinstance(repeat, int) or repeat < 0:
-    #         return False
-
-    #     # if nums.count(repeat) > 1:
-    #     #     # print(repeat)
-    #     #     return repeat
-
-    #     # return True
-
-    # return False
