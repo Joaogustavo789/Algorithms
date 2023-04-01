@@ -60,23 +60,6 @@ Foi desenvolvido utilizando a linguagem de programação `Python`.
 
 </details>
 
-## Stack utilizada
-
-<table width="320px" align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="80px" align="center">
-        <span><strong>Python</strong></span>
-        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Pytest</strong></span>
-        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ## Funcionalidades
 
 - Busca Linear (Algoritmo de busca)
@@ -95,6 +78,23 @@ algoritmo de ordenação `Merge Sort` para identificar anagramas, o qual se base
 repetidos em uma lista também utilizando a `Busca Linear`, porém foi necessário ordenar essa lista para depois percorrer item por item. E por fim, 
 implementei um teste em uma função de criptografia de  mensagem para garantir que ela retorne a resposta esperada quando chamada com os devidos 
 parâmetros.
+
+## Stack utilizada
+
+<table width="320px" align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Python</strong></span>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Pytest</strong></span>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Documentação
 
