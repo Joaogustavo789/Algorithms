@@ -90,10 +90,11 @@ Foi desenvolvido utilizando a linguagem de programação `Python`.
 Nesse projeto, eu aprendi sobre algoritmos, incluindo o entendimento de suas complexidades e notações, tais como `O(1)`, `O(n)`, `O(log n)`, `O(n^2)`, 
 `O(n^3)` e `O(n!)`. Além disso, eu fui capaz de definir e entender melhor os conceitos de `melhor caso`, `caso médio` e `pior caso` em relação à ordem de 
 complexidade. Aprendi a encontrar a quantidade de estudantes que estavam estudando em um horário específico utilizando a `Busca Linear`, na qual irá 
-percorrer item por item. Aprendi a identificar palíndromos usando tanto a `Recursividade` quanto a `Iteratividade`. Aprendi a  utilizar o algoritmo de 
-ordenação `Merge Sort` para identificar anagramas, o qual se baseia na estratégia de dividir e conquistar. Aprendi a encontrar numéros repetidos em uma 
-lista também utilizando a `Busca Linear`, porém foi necessário ordenar essa lista para depois percorrer item por item. E por fim, implementei um teste em 
-uma função de criptografia de  mensagem para garantir que ela retorne a resposta esperada quando chamada com os devidos parâmetros.
+percorrer item por item. Aprendi a identificar palíndromos usando algoritmos tanto de `Recursividade` quanto de `Iteratividade`. Aprendi a  utilizar o 
+algoritmo de ordenação `Merge Sort` para identificar anagramas, o qual se baseia na estratégia de dividir e conquistar. Aprendi a encontrar numéros 
+repetidos em uma lista também utilizando a `Busca Linear`, porém foi necessário ordenar essa lista para depois percorrer item por item. E por fim, 
+implementei um teste em uma função de criptografia de  mensagem para garantir que ela retorne a resposta esperada quando chamada com os devidos 
+parâmetros.
 
 ## Documentação
 
