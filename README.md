@@ -89,14 +89,11 @@ Foi desenvolvido utilizando a linguagem de programação `Python`.
 
 Nesse projeto, eu aprendi sobre algoritmos, incluindo o entendimento de suas complexidades e notações, tais como `O(1)`, `O(n)`, `O(log n)`, `O(n^2)`, 
 `O(n^3)` e `O(n!)`. Além disso, eu fui capaz de definir e entender melhor os conceitos de `melhor caso`, `caso médio` e `pior caso` em relação à ordem de 
-complexidade.
-
-Aprendi a encontrar a quantidade de estudantes que estavam estudando em um horário específico utilizando a `busca linear`, na qual irá percorrer item por 
-item, aprendi a identificar palíndromos utilizando dois algoritmos, o primeiro foi usando a `recursividade`, na qual tem um caso baso, um caso de 
-decremento, e o segundo foi usando a `iteratividade`, na qual possui um laço de repetição, aprendi a identificar anagramas utilizando o `merge sort`, 
-algoritmo de ordenação que possui como estrategia dividir e conquistar, aprendi a encontrar numéros repetidos em uma lista também utilizando a busca 
-linear, porém foi necessário ordenar essa lista para depois percorrer item por item e por fim, implementei um teste em uma função de criptografia de 
-mensagem para garantir que ela retorne a resposta esperada quando chamada com os devidos parâmetros.
+complexidade. Aprendi a encontrar a quantidade de estudantes que estavam estudando em um horário específico utilizando a `Busca Linear`, na qual irá 
+percorrer item por item. Aprendi a identificar palíndromos usando tanto a `Recursividade` quanto a `Iteratividade`. Aprendi a  utilizar o algoritmo de 
+ordenação `Merge Sort` para identificar anagramas, o qual se baseia na estratégia de dividir e conquistar. Aprendi a encontrar numéros repetidos em uma 
+lista também utilizando a `Busca Linear`, porém foi necessário ordenar essa lista para depois percorrer item por item. E por fim, implementei um teste em 
+uma função de criptografia de  mensagem para garantir que ela retorne a resposta esperada quando chamada com os devidos parâmetros.
 
 ## Documentação
 
